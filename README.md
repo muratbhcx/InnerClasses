@@ -1,1 +1,0 @@
-Bir şirketin çalışanlarının bilgilerini ve iletişim detaylarını yönetmek için geliştirilmiş bir projedir. inner class yapısı kullanılarak her çalışanın iletişim bilgileri, doğrudan çalışana bağlı şekilde saklanmaktadır.
